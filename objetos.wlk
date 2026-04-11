@@ -1,16 +1,13 @@
-object rojo{
-  method EsColorFuerte() = true  
+import colores.*
+
+object remera {
+  method color() = rojo
+  method material() = lino
+  method pesoEnGramos() = 800  
 }
 
-object verde{
-  method EsColorFuerte() = true  
+object pelota {
+  method color() = pardo
+  method material() = cuero
+  method pesoEnGramos() = 1300  
 }
-
-object celeste{
-  method EsColorFuerte() = true  
-}
-
-object pardo{
-  method EsColorFuerte() = true  
-}
-
