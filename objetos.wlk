@@ -1,9 +1,16 @@
-object pepita {
-  var energy = 100
-
-  method energy() = energy
-
-  method fly(minutes) {
-    energy = energy - minutes * 3
-  }
+object rojo{
+  method EsColorFuerte() = true  
 }
+
+object verde{
+  method EsColorFuerte() = true  
+}
+
+object celeste{
+  method EsColorFuerte() = true  
+}
+
+object pardo{
+  method EsColorFuerte() = true  
+}
+
