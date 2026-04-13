@@ -15,7 +15,7 @@ object  estefania {
 
 object luisa {
     method leGusta(objeto){
-        return objeto.color().EsBrillante()
+        return objeto.material().EsBrillante()
     }
 }
 

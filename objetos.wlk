@@ -21,7 +21,7 @@ object biblioteca {
 object muñeco {
   var peso = 50
   method color() = celeste
-  method material() = lino
+  method material() = vidrio
   method pesoEnGramos() = peso
   method nuevoPeso(pesoNuevo) {
     peso = pesoNuevo
