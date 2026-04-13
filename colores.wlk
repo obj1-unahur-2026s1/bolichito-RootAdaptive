@@ -6,6 +6,10 @@ object verde{
   method EsColorFuerte() = true  
 }
 
+object naranja{
+  method EsColorFuerte() = true  
+}
+
 object celeste{
   method EsColorFuerte() = true  
 }
